@@ -64,7 +64,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/thevickykumar/Leave_app.git](https://github.com/thevickykumar/Leave_app.git)
+    git clone https://github.com/thevickykumar/Leave_app.git
     cd Leave_app
     ```
 
